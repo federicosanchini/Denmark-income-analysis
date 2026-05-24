@@ -1,8 +1,24 @@
-# Studio-redditi-DK
+# Denmark Income Analysis
 
-In questo notebook è proposto uno studio sull'andamento dei redditi dei cittadini danesi, divisi in 3 gruppi fondamentali: famiglie, coppie e singles.
+This repository contains a data analysis project focused on income distribution and socioeconomic indicators in Denmark using Python and Jupyter notebooks.
 
-Verranno analizzati i cambiamenti avvenuti fra il 2014 ed il 2023, in particolare le variazioni (in percentuale) dei gruppi appartenenti ad un certo intervallo di reddito. A questo sarà accompagnato uno studio sull'andamento del **coefficiente di Gini**, per verificare se questi cambiamenti hanno 
-portato ad una diminuzione della disuguaglianza economica.
+The project explores statistical properties of income data through visualization, descriptive statistics, and inequality analysis techniques.
 
-Infine viene analizzata la **distribuzione geografica della ricchezza**, evidenziando la concentrazioni di gruppi particolarmente benestanti in località specifiche della Danimarca, in particolare si analizza la *Capital Region*. 
+## Project Objectives
+
+- Analyze income distribution patterns in Denmark
+- Study economic inequality through statistical indicators
+- Visualize income-related trends and distributions
+- Apply data analysis and preprocessing techniques
+- Extract insights from real-world socioeconomic data
+
+## Topics Covered
+
+- Income distribution analysis
+- Descriptive statistics
+- Data cleaning and preprocessing
+- Histograms and density estimation
+- Correlation analysis
+- Inequality metrics
+- Data visualization
+- Exploratory Data Analysis (EDA)
